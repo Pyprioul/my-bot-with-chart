@@ -1,0 +1,14 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /home/ubuntu/my-bot-with-chart
+hooks:
+  AfterInstall:
+    - location: scripts/after_install.sh
+      timeout: 300
+      runas: ubuntu
+  ApplicationStart:
+    - location: scripts/start_server.sh
+      timeout: 300
+      runas: ubuntu
