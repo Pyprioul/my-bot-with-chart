@@ -194,7 +194,7 @@ def paper_trading(symbol):
                 row = pd.DataFrame([data])  # Ensure data is wrapped in a list to avoid errors
 
                 # Calculate indicators
-                row['rsi'] = calculate_rsi(row, period=5)['rsi']  # RSI period = 5
+                row['rsi'] = calculate_rsi(row, period=14)['rsi']  # RSI period = 5
                 row['atr'] = calculate_atr(row, period=14)['atr']  # ATR period
 
                 current_price = row['close'].iloc[0]
