@@ -1,0 +1,958 @@
+2024-09-19 05:23:54.419 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62091.48
+Current Price of BTCUSDT: 62091.48
+2024-09-19 05:23:54.424 | INFO     | __main__:log_trade:149 - BUY | Entry Price: 62091.48 | Closing Price: N/A | Trade Value: 500.0 | Stop Loss: 61988.413928571434 | Balance: 9500.0
+BUY | Entry Price: 62091.48 | Closing Price: N/A | Trade Value: 500.0 | Stop Loss: 61988.413928571434 | Balance: 9500.0
+2024-09-19 05:24:54.691 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62058.01
+Current Price of BTCUSDT: 62058.01
+2024-09-19 05:25:54.955 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62054.55
+Current Price of BTCUSDT: 62054.55
+2024-09-19 05:26:55.220 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62008.01
+Current Price of BTCUSDT: 62008.01
+2024-09-19 05:27:55.482 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61982.26
+Current Price of BTCUSDT: 61982.26
+2024-09-19 05:27:55.484 | INFO     | __main__:log_trade:149 - SELL | Entry Price: 62091.48 | Closing Price: 61982.26 | Trade Value: 475.0 | Stop Loss: 61988.413928571434 | Balance: 9974.164466686894
+SELL | Entry Price: 62091.48 | Closing Price: 61982.26 | Trade Value: 475.0 | Stop Loss: 61988.413928571434 | Balance: 9974.164466686894
+2024-09-19 05:27:55.485 | INFO     | __main__:log_pnl:163 - Profit/Loss for this trade: -0.84 USDT
+Profit/Loss for this trade: -0.84 USDT
+2024-09-19 05:27:55.485 | INFO     | __main__:log_drawdown:158 - Drawdown after this trade: 0.26%
+Drawdown after this trade: 0.26%
+2024-09-19 05:28:55.748 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61982.26
+Current Price of BTCUSDT: 61982.26
+2024-09-19 05:29:56.014 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61986.0
+Current Price of BTCUSDT: 61986.0
+2024-09-19 05:30:56.280 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61996.0
+Current Price of BTCUSDT: 61996.0
+2024-09-19 05:31:57.037 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62015.99
+Current Price of BTCUSDT: 62015.99
+2024-09-19 05:32:57.302 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62014.02
+Current Price of BTCUSDT: 62014.02
+2024-09-19 05:33:58.052 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61993.55
+Current Price of BTCUSDT: 61993.55
+2024-09-19 05:34:58.313 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61986.01
+Current Price of BTCUSDT: 61986.01
+2024-09-19 05:35:58.575 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61971.7
+Current Price of BTCUSDT: 61971.7
+2024-09-19 05:36:58.840 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61964.0
+Current Price of BTCUSDT: 61964.0
+2024-09-19 05:37:59.108 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61943.69
+Current Price of BTCUSDT: 61943.69
+2024-09-19 05:38:59.372 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61943.68
+Current Price of BTCUSDT: 61943.68
+2024-09-19 05:39:59.636 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61939.62
+Current Price of BTCUSDT: 61939.62
+2024-09-19 05:40:59.895 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61942.0
+Current Price of BTCUSDT: 61942.0
+2024-09-19 05:42:00.161 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61980.09
+Current Price of BTCUSDT: 61980.09
+2024-09-19 05:43:00.432 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61966.9
+Current Price of BTCUSDT: 61966.9
+2024-09-19 05:44:00.697 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61980.0
+Current Price of BTCUSDT: 61980.0
+2024-09-19 05:45:00.995 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61975.2
+Current Price of BTCUSDT: 61975.2
+2024-09-19 05:46:01.267 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61962.0
+Current Price of BTCUSDT: 61962.0
+2024-09-19 05:47:01.547 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61929.07
+Current Price of BTCUSDT: 61929.07
+2024-09-19 05:48:01.819 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61914.5
+Current Price of BTCUSDT: 61914.5
+2024-09-19 05:49:02.093 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61927.16
+Current Price of BTCUSDT: 61927.16
+2024-09-19 05:50:02.432 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61928.0
+Current Price of BTCUSDT: 61928.0
+2024-09-19 05:51:02.697 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61921.99
+Current Price of BTCUSDT: 61921.99
+2024-09-19 05:52:02.963 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61955.99
+Current Price of BTCUSDT: 61955.99
+2024-09-19 05:53:03.228 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61964.0
+Current Price of BTCUSDT: 61964.0
+2024-09-19 05:54:03.492 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61975.19
+Current Price of BTCUSDT: 61975.19
+2024-09-19 05:55:03.758 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61965.76
+Current Price of BTCUSDT: 61965.76
+2024-09-19 05:56:04.024 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61975.0
+Current Price of BTCUSDT: 61975.0
+2024-09-19 05:57:04.290 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61966.0
+Current Price of BTCUSDT: 61966.0
+2024-09-19 05:58:04.559 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61966.0
+Current Price of BTCUSDT: 61966.0
+2024-09-19 05:59:04.827 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61998.99
+Current Price of BTCUSDT: 61998.99
+2024-09-19 06:00:05.093 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61990.42
+Current Price of BTCUSDT: 61990.42
+2024-09-19 06:01:05.361 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61970.01
+Current Price of BTCUSDT: 61970.01
+2024-09-19 06:02:05.627 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61966.01
+Current Price of BTCUSDT: 61966.01
+2024-09-19 06:03:05.899 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61923.55
+Current Price of BTCUSDT: 61923.55
+2024-09-19 06:04:06.170 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61933.67
+Current Price of BTCUSDT: 61933.67
+2024-09-19 06:05:06.442 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61912.0
+Current Price of BTCUSDT: 61912.0
+2024-09-19 06:06:06.716 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61860.28
+Current Price of BTCUSDT: 61860.28
+2024-09-19 06:07:06.987 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61864.0
+Current Price of BTCUSDT: 61864.0
+2024-09-19 06:08:07.253 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61838.0
+Current Price of BTCUSDT: 61838.0
+2024-09-19 06:09:07.519 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61834.0
+Current Price of BTCUSDT: 61834.0
+2024-09-19 06:10:07.790 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61857.86
+Current Price of BTCUSDT: 61857.86
+2024-09-19 06:11:08.059 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61871.98
+Current Price of BTCUSDT: 61871.98
+2024-09-19 06:12:08.322 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61865.99
+Current Price of BTCUSDT: 61865.99
+2024-09-19 06:13:09.085 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61852.01
+Current Price of BTCUSDT: 61852.01
+2024-09-19 06:14:09.356 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61826.01
+Current Price of BTCUSDT: 61826.01
+2024-09-19 06:15:09.621 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61883.98
+Current Price of BTCUSDT: 61883.98
+2024-09-19 06:16:10.384 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61877.31
+Current Price of BTCUSDT: 61877.31
+2024-09-19 06:17:10.647 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61887.98
+Current Price of BTCUSDT: 61887.98
+2024-09-19 06:18:10.910 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61900.0
+Current Price of BTCUSDT: 61900.0
+2024-09-19 06:19:11.188 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61952.0
+Current Price of BTCUSDT: 61952.0
+2024-09-19 06:20:11.450 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61942.0
+Current Price of BTCUSDT: 61942.0
+2024-09-19 06:21:11.716 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61923.98
+Current Price of BTCUSDT: 61923.98
+2024-09-19 06:22:11.992 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61958.0
+Current Price of BTCUSDT: 61958.0
+2024-09-19 06:23:12.256 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61981.83
+Current Price of BTCUSDT: 61981.83
+2024-09-19 06:24:12.520 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62020.0
+Current Price of BTCUSDT: 62020.0
+2024-09-19 06:25:12.786 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62032.01
+Current Price of BTCUSDT: 62032.01
+2024-09-19 06:26:13.055 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62025.99
+Current Price of BTCUSDT: 62025.99
+2024-09-19 06:27:13.316 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62017.99
+Current Price of BTCUSDT: 62017.99
+2024-09-19 06:28:13.579 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62019.8
+Current Price of BTCUSDT: 62019.8
+2024-09-19 06:29:13.841 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62023.23
+Current Price of BTCUSDT: 62023.23
+2024-09-19 06:30:14.112 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62027.43
+Current Price of BTCUSDT: 62027.43
+2024-09-19 06:31:14.856 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62055.98
+Current Price of BTCUSDT: 62055.98
+2024-09-19 06:32:15.129 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62073.99
+Current Price of BTCUSDT: 62073.99
+2024-09-19 06:33:15.414 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62114.17
+Current Price of BTCUSDT: 62114.17
+2024-09-19 06:34:15.695 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62123.98
+Current Price of BTCUSDT: 62123.98
+2024-09-19 06:35:15.955 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62090.0
+Current Price of BTCUSDT: 62090.0
+2024-09-19 06:36:16.232 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62086.01
+Current Price of BTCUSDT: 62086.01
+2024-09-19 06:37:16.498 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62082.01
+Current Price of BTCUSDT: 62082.01
+2024-09-19 06:38:16.771 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62076.0
+Current Price of BTCUSDT: 62076.0
+2024-09-19 06:39:17.035 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62100.0
+Current Price of BTCUSDT: 62100.0
+2024-09-19 06:40:17.300 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62096.0
+Current Price of BTCUSDT: 62096.0
+2024-09-19 06:41:17.576 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62092.91
+Current Price of BTCUSDT: 62092.91
+2024-09-19 06:42:17.845 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62090.17
+Current Price of BTCUSDT: 62090.17
+2024-09-19 06:43:18.105 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62099.98
+Current Price of BTCUSDT: 62099.98
+2024-09-19 06:44:18.372 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62090.17
+Current Price of BTCUSDT: 62090.17
+2024-09-19 06:45:18.639 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62099.39
+Current Price of BTCUSDT: 62099.39
+2024-09-19 06:46:19.386 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62091.98
+Current Price of BTCUSDT: 62091.98
+2024-09-19 06:47:19.649 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62082.0
+Current Price of BTCUSDT: 62082.0
+2024-09-19 06:48:19.916 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62053.99
+Current Price of BTCUSDT: 62053.99
+2024-09-19 06:49:20.177 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62072.0
+Current Price of BTCUSDT: 62072.0
+2024-09-19 06:50:20.446 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62050.0
+Current Price of BTCUSDT: 62050.0
+2024-09-19 06:51:20.715 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62053.96
+Current Price of BTCUSDT: 62053.96
+2024-09-19 06:52:20.987 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62054.0
+Current Price of BTCUSDT: 62054.0
+2024-09-19 06:53:21.267 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62020.59
+Current Price of BTCUSDT: 62020.59
+2024-09-19 06:54:21.533 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62012.0
+Current Price of BTCUSDT: 62012.0
+2024-09-19 06:55:21.802 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62012.01
+Current Price of BTCUSDT: 62012.01
+2024-09-19 06:56:22.070 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61990.0
+Current Price of BTCUSDT: 61990.0
+2024-09-19 06:57:22.335 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61997.0
+Current Price of BTCUSDT: 61997.0
+2024-09-19 06:58:22.596 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61989.03
+Current Price of BTCUSDT: 61989.03
+2024-09-19 06:59:22.860 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62021.75
+Current Price of BTCUSDT: 62021.75
+2024-09-19 07:00:23.130 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62041.99
+Current Price of BTCUSDT: 62041.99
+2024-09-19 07:01:23.395 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62032.39
+Current Price of BTCUSDT: 62032.39
+2024-09-19 07:02:23.665 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61982.96
+Current Price of BTCUSDT: 61982.96
+2024-09-19 07:03:23.932 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61950.0
+Current Price of BTCUSDT: 61950.0
+2024-09-19 07:04:24.209 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61951.23
+Current Price of BTCUSDT: 61951.23
+2024-09-19 07:05:24.473 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61967.99
+Current Price of BTCUSDT: 61967.99
+2024-09-19 07:06:24.740 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62049.99
+Current Price of BTCUSDT: 62049.99
+2024-09-19 07:07:25.016 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62095.24
+Current Price of BTCUSDT: 62095.24
+2024-09-19 07:07:25.023 | INFO     | __main__:log_trade:149 - BUY | Entry Price: 62095.24 | Closing Price: N/A | Trade Value: 498.7082233343447 | Stop Loss: 61966.2025 | Balance: 9475.45624335255
+BUY | Entry Price: 62095.24 | Closing Price: N/A | Trade Value: 498.7082233343447 | Stop Loss: 61966.2025 | Balance: 9475.45624335255
+2024-09-19 07:08:25.287 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62056.0
+Current Price of BTCUSDT: 62056.0
+2024-09-19 07:09:25.553 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62041.38
+Current Price of BTCUSDT: 62041.38
+2024-09-19 07:10:25.818 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62035.99
+Current Price of BTCUSDT: 62035.99
+2024-09-19 07:11:26.078 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62110.14
+Current Price of BTCUSDT: 62110.14
+2024-09-19 07:12:26.343 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62154.01
+Current Price of BTCUSDT: 62154.01
+2024-09-19 07:13:26.605 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62110.01
+Current Price of BTCUSDT: 62110.01
+2024-09-19 07:14:26.873 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61972.45
+Current Price of BTCUSDT: 61972.45
+2024-09-19 07:15:27.136 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62003.99
+Current Price of BTCUSDT: 62003.99
+2024-09-19 07:16:27.404 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61999.99
+Current Price of BTCUSDT: 61999.99
+2024-09-19 07:17:27.677 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62074.01
+Current Price of BTCUSDT: 62074.01
+2024-09-19 07:18:27.948 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62077.98
+Current Price of BTCUSDT: 62077.98
+2024-09-19 07:19:28.216 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62042.01
+Current Price of BTCUSDT: 62042.01
+2024-09-19 07:20:28.486 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62066.05
+Current Price of BTCUSDT: 62066.05
+2024-09-19 07:21:28.748 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62060.0
+Current Price of BTCUSDT: 62060.0
+2024-09-19 07:22:29.018 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62065.69
+Current Price of BTCUSDT: 62065.69
+2024-09-19 07:23:29.286 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62072.99
+Current Price of BTCUSDT: 62072.99
+2024-09-19 07:24:29.550 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62064.0
+Current Price of BTCUSDT: 62064.0
+2024-09-19 07:25:29.823 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62074.0
+Current Price of BTCUSDT: 62074.0
+2024-09-19 07:26:30.091 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62110.0
+Current Price of BTCUSDT: 62110.0
+2024-09-19 07:27:30.358 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62096.0
+Current Price of BTCUSDT: 62096.0
+2024-09-19 07:28:30.627 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62088.0
+Current Price of BTCUSDT: 62088.0
+2024-09-19 07:29:30.897 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62089.99
+Current Price of BTCUSDT: 62089.99
+2024-09-19 07:30:31.165 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62046.27
+Current Price of BTCUSDT: 62046.27
+2024-09-19 07:31:31.429 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62042.0
+Current Price of BTCUSDT: 62042.0
+2024-09-19 07:32:31.692 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62050.47
+Current Price of BTCUSDT: 62050.47
+2024-09-19 07:33:31.954 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62012.76
+Current Price of BTCUSDT: 62012.76
+2024-09-19 07:34:32.221 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62030.0
+Current Price of BTCUSDT: 62030.0
+2024-09-19 07:35:32.493 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62014.01
+Current Price of BTCUSDT: 62014.01
+2024-09-19 07:36:32.753 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62003.54
+Current Price of BTCUSDT: 62003.54
+2024-09-19 07:37:33.026 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62066.0
+Current Price of BTCUSDT: 62066.0
+2024-09-19 07:38:33.297 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62069.4
+Current Price of BTCUSDT: 62069.4
+2024-09-19 07:39:33.565 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62090.0
+Current Price of BTCUSDT: 62090.0
+2024-09-19 07:40:33.828 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62089.99
+Current Price of BTCUSDT: 62089.99
+2024-09-19 07:41:34.094 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62072.0
+Current Price of BTCUSDT: 62072.0
+2024-09-19 07:42:34.364 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62092.0
+Current Price of BTCUSDT: 62092.0
+2024-09-19 07:43:34.629 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62136.38
+Current Price of BTCUSDT: 62136.38
+2024-09-19 07:44:34.892 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62107.39
+Current Price of BTCUSDT: 62107.39
+2024-09-19 07:45:35.177 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62128.0
+Current Price of BTCUSDT: 62128.0
+2024-09-19 07:46:35.451 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62117.99
+Current Price of BTCUSDT: 62117.99
+2024-09-19 07:47:35.716 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62140.01
+Current Price of BTCUSDT: 62140.01
+2024-09-19 07:48:35.980 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62122.02
+Current Price of BTCUSDT: 62122.02
+2024-09-19 07:49:36.267 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62153.27
+Current Price of BTCUSDT: 62153.27
+2024-09-19 07:50:36.533 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62120.0
+Current Price of BTCUSDT: 62120.0
+2024-09-19 07:51:36.804 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62104.01
+Current Price of BTCUSDT: 62104.01
+2024-09-19 07:52:37.083 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62116.88
+Current Price of BTCUSDT: 62116.88
+2024-09-19 07:53:37.352 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62107.98
+Current Price of BTCUSDT: 62107.98
+2024-09-19 07:54:37.616 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62098.92
+Current Price of BTCUSDT: 62098.92
+2024-09-19 07:55:37.877 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62115.99
+Current Price of BTCUSDT: 62115.99
+2024-09-19 07:56:38.153 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62092.77
+Current Price of BTCUSDT: 62092.77
+2024-09-19 07:57:38.424 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62101.99
+Current Price of BTCUSDT: 62101.99
+2024-09-19 07:58:38.690 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62096.9
+Current Price of BTCUSDT: 62096.9
+2024-09-19 07:59:38.957 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62072.73
+Current Price of BTCUSDT: 62072.73
+2024-09-19 08:00:39.220 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62083.76
+Current Price of BTCUSDT: 62083.76
+2024-09-19 08:01:39.485 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62056.0
+Current Price of BTCUSDT: 62056.0
+2024-09-19 08:02:39.759 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62116.01
+Current Price of BTCUSDT: 62116.01
+2024-09-19 08:03:40.040 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62119.98
+Current Price of BTCUSDT: 62119.98
+2024-09-19 08:04:40.306 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62105.99
+Current Price of BTCUSDT: 62105.99
+2024-09-19 08:05:41.061 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62128.01
+Current Price of BTCUSDT: 62128.01
+2024-09-19 08:06:41.325 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62140.0
+Current Price of BTCUSDT: 62140.0
+2024-09-19 08:07:41.584 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62066.01
+Current Price of BTCUSDT: 62066.01
+2024-09-19 08:08:41.845 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62077.59
+Current Price of BTCUSDT: 62077.59
+2024-09-19 08:09:42.111 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62103.78
+Current Price of BTCUSDT: 62103.78
+2024-09-19 08:10:42.384 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62142.01
+Current Price of BTCUSDT: 62142.01
+2024-09-19 08:11:42.662 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62153.86
+Current Price of BTCUSDT: 62153.86
+2024-09-19 08:12:43.414 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62114.0
+Current Price of BTCUSDT: 62114.0
+2024-09-19 08:13:43.686 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62150.01
+Current Price of BTCUSDT: 62150.01
+2024-09-19 08:14:43.949 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62132.26
+Current Price of BTCUSDT: 62132.26
+2024-09-19 08:15:44.214 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62100.01
+Current Price of BTCUSDT: 62100.01
+2024-09-19 08:16:44.476 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62076.0
+Current Price of BTCUSDT: 62076.0
+2024-09-19 08:17:44.750 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62119.22
+Current Price of BTCUSDT: 62119.22
+2024-09-19 08:18:45.021 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62108.01
+Current Price of BTCUSDT: 62108.01
+2024-09-19 08:19:45.283 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62193.84
+Current Price of BTCUSDT: 62193.84
+2024-09-19 08:20:45.546 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62174.01
+Current Price of BTCUSDT: 62174.01
+2024-09-19 08:21:45.807 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62158.54
+Current Price of BTCUSDT: 62158.54
+2024-09-19 08:22:46.071 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62154.0
+Current Price of BTCUSDT: 62154.0
+2024-09-19 08:23:46.338 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62118.01
+Current Price of BTCUSDT: 62118.01
+2024-09-19 08:24:46.603 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62102.99
+Current Price of BTCUSDT: 62102.99
+2024-09-19 08:25:46.887 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62061.44
+Current Price of BTCUSDT: 62061.44
+2024-09-19 08:26:47.156 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62112.0
+Current Price of BTCUSDT: 62112.0
+2024-09-19 08:27:47.425 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62068.04
+Current Price of BTCUSDT: 62068.04
+2024-09-19 08:28:47.694 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62049.99
+Current Price of BTCUSDT: 62049.99
+2024-09-19 08:29:47.961 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62062.07
+Current Price of BTCUSDT: 62062.07
+2024-09-19 08:30:48.224 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62066.0
+Current Price of BTCUSDT: 62066.0
+2024-09-19 08:31:48.495 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62060.3
+Current Price of BTCUSDT: 62060.3
+2024-09-19 08:32:48.782 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62072.96
+Current Price of BTCUSDT: 62072.96
+2024-09-19 08:33:49.041 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62022.0
+Current Price of BTCUSDT: 62022.0
+2024-09-19 08:34:49.327 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62014.02
+Current Price of BTCUSDT: 62014.02
+2024-09-19 08:35:49.592 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62010.0
+Current Price of BTCUSDT: 62010.0
+2024-09-19 08:36:49.858 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62004.72
+Current Price of BTCUSDT: 62004.72
+2024-09-19 08:37:50.128 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62011.99
+Current Price of BTCUSDT: 62011.99
+2024-09-19 08:38:50.390 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62000.0
+Current Price of BTCUSDT: 62000.0
+2024-09-19 08:39:50.658 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61960.0
+Current Price of BTCUSDT: 61960.0
+2024-09-19 08:39:50.660 | INFO     | __main__:log_trade:149 - SELL | Entry Price: 62095.24 | Closing Price: 61960.0 | Trade Value: 473.77281216762754 | Stop Loss: 61966.2025 | Balance: 9948.197204526163
+SELL | Entry Price: 62095.24 | Closing Price: 61960.0 | Trade Value: 473.77281216762754 | Stop Loss: 61966.2025 | Balance: 9948.197204526163
+2024-09-19 08:39:50.662 | INFO     | __main__:log_pnl:163 - Profit/Loss for this trade: -1.03 USDT
+Profit/Loss for this trade: -1.03 USDT
+2024-09-19 08:39:50.663 | INFO     | __main__:log_drawdown:158 - Drawdown after this trade: 0.52%
+Drawdown after this trade: 0.52%
+2024-09-19 08:40:50.921 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61961.86
+Current Price of BTCUSDT: 61961.86
+2024-09-19 08:41:51.189 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61950.0
+Current Price of BTCUSDT: 61950.0
+2024-09-19 08:42:51.456 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62006.99
+Current Price of BTCUSDT: 62006.99
+2024-09-19 08:42:51.459 | INFO     | __main__:log_trade:149 - BUY | Entry Price: 62006.99 | Closing Price: N/A | Trade Value: 497.4098602263082 | Stop Loss: 61881.30285714286 | Balance: 9450.787344299855
+BUY | Entry Price: 62006.99 | Closing Price: N/A | Trade Value: 497.4098602263082 | Stop Loss: 61881.30285714286 | Balance: 9450.787344299855
+2024-09-19 08:43:51.725 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61958.01
+Current Price of BTCUSDT: 61958.01
+2024-09-19 08:44:51.997 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61945.33
+Current Price of BTCUSDT: 61945.33
+2024-09-19 08:45:52.261 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61963.64
+Current Price of BTCUSDT: 61963.64
+2024-09-19 08:46:52.522 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61984.17
+Current Price of BTCUSDT: 61984.17
+2024-09-19 08:47:52.788 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61960.0
+Current Price of BTCUSDT: 61960.0
+2024-09-19 08:48:53.058 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61911.34
+Current Price of BTCUSDT: 61911.34
+2024-09-19 08:49:53.324 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61932.95
+Current Price of BTCUSDT: 61932.95
+2024-09-19 08:50:53.593 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61926.19
+Current Price of BTCUSDT: 61926.19
+2024-09-19 08:51:53.855 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61908.91
+Current Price of BTCUSDT: 61908.91
+2024-09-19 08:52:54.120 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61902.0
+Current Price of BTCUSDT: 61902.0
+2024-09-19 08:53:54.380 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61917.97
+Current Price of BTCUSDT: 61917.97
+2024-09-19 08:54:54.656 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61903.99
+Current Price of BTCUSDT: 61903.99
+2024-09-19 08:55:54.928 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61914.0
+Current Price of BTCUSDT: 61914.0
+2024-09-19 08:56:55.191 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61956.01
+Current Price of BTCUSDT: 61956.01
+2024-09-19 08:57:55.454 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61945.99
+Current Price of BTCUSDT: 61945.99
+2024-09-19 08:58:55.718 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61928.01
+Current Price of BTCUSDT: 61928.01
+2024-09-19 08:59:55.985 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61932.0
+Current Price of BTCUSDT: 61932.0
+2024-09-19 09:00:56.248 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61932.01
+Current Price of BTCUSDT: 61932.01
+2024-09-19 09:00:56.251 | INFO     | __main__:log_trade:149 - SELL | Entry Price: 62006.99 | Closing Price: 61932.01 | Trade Value: 472.5393672149928 | Stop Loss: 61881.30285714286 | Balance: 9922.755308165746
+SELL | Entry Price: 62006.99 | Closing Price: 61932.01 | Trade Value: 472.5393672149928 | Stop Loss: 61881.30285714286 | Balance: 9922.755308165746
+2024-09-19 09:00:56.251 | INFO     | __main__:log_pnl:163 - Profit/Loss for this trade: -0.57 USDT
+Profit/Loss for this trade: -0.57 USDT
+2024-09-19 09:00:56.251 | INFO     | __main__:log_drawdown:158 - Drawdown after this trade: 0.77%
+Drawdown after this trade: 0.77%
+2024-09-19 09:01:56.516 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61913.99
+Current Price of BTCUSDT: 61913.99
+2024-09-19 09:02:56.789 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61910.46
+Current Price of BTCUSDT: 61910.46
+2024-09-19 09:03:57.061 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 61943.11
+Current Price of BTCUSDT: 61943.11
+2024-09-19 09:04:57.336 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62009.87
+Current Price of BTCUSDT: 62009.87
+2024-09-19 09:05:57.598 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62007.63
+Current Price of BTCUSDT: 62007.63
+2024-09-19 09:06:57.862 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62014.03
+Current Price of BTCUSDT: 62014.03
+2024-09-19 09:07:58.125 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62017.24
+Current Price of BTCUSDT: 62017.24
+2024-09-19 09:08:58.398 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62019.98
+Current Price of BTCUSDT: 62019.98
+2024-09-19 09:09:58.660 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62023.99
+Current Price of BTCUSDT: 62023.99
+2024-09-19 09:10:58.936 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62047.42
+Current Price of BTCUSDT: 62047.42
+2024-09-19 09:11:59.208 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62047.79
+Current Price of BTCUSDT: 62047.79
+2024-09-19 09:12:59.470 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62049.99
+Current Price of BTCUSDT: 62049.99
+2024-09-19 09:13:59.741 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62088.85
+Current Price of BTCUSDT: 62088.85
+2024-09-19 09:15:00.045 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62118.91
+Current Price of BTCUSDT: 62118.91
+2024-09-19 09:16:00.327 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62106.0
+Current Price of BTCUSDT: 62106.0
+2024-09-19 09:17:00.596 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62108.24
+Current Price of BTCUSDT: 62108.24
+2024-09-19 09:18:00.858 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62121.98
+Current Price of BTCUSDT: 62121.98
+2024-09-19 09:19:01.131 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62086.01
+Current Price of BTCUSDT: 62086.01
+2024-09-19 09:20:01.412 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62062.47
+Current Price of BTCUSDT: 62062.47
+2024-09-19 09:21:01.692 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62101.89
+Current Price of BTCUSDT: 62101.89
+2024-09-19 09:22:01.968 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62138.02
+Current Price of BTCUSDT: 62138.02
+2024-09-19 09:23:02.232 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62174.44
+Current Price of BTCUSDT: 62174.44
+2024-09-19 09:24:02.496 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62178.0
+Current Price of BTCUSDT: 62178.0
+2024-09-19 09:25:02.776 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62163.08
+Current Price of BTCUSDT: 62163.08
+2024-09-19 09:26:03.051 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62150.0
+Current Price of BTCUSDT: 62150.0
+2024-09-19 09:27:03.325 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62169.99
+Current Price of BTCUSDT: 62169.99
+2024-09-19 09:28:03.595 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62171.99
+Current Price of BTCUSDT: 62171.99
+2024-09-19 09:29:03.863 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62138.0
+Current Price of BTCUSDT: 62138.0
+2024-09-19 09:30:04.610 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62146.0
+Current Price of BTCUSDT: 62146.0
+2024-09-19 09:31:04.871 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62121.8
+Current Price of BTCUSDT: 62121.8
+2024-09-19 09:32:05.628 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62134.23
+Current Price of BTCUSDT: 62134.23
+2024-09-19 09:33:05.901 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62170.99
+Current Price of BTCUSDT: 62170.99
+2024-09-19 09:34:06.170 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62176.92
+Current Price of BTCUSDT: 62176.92
+2024-09-19 09:35:06.433 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62179.38
+Current Price of BTCUSDT: 62179.38
+2024-09-19 09:36:06.696 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62199.99
+Current Price of BTCUSDT: 62199.99
+2024-09-19 09:37:06.962 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62180.0
+Current Price of BTCUSDT: 62180.0
+2024-09-19 09:38:07.227 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62189.68
+Current Price of BTCUSDT: 62189.68
+2024-09-19 09:39:07.486 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62186.01
+Current Price of BTCUSDT: 62186.01
+2024-09-19 09:40:07.750 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62234.0
+Current Price of BTCUSDT: 62234.0
+2024-09-19 09:40:07.754 | INFO     | __main__:log_trade:149 - BUY | Entry Price: 62234.0 | Closing Price: N/A | Trade Value: 496.13776540828735 | Stop Loss: 62125.169642857145 | Balance: 9426.617542757458
+BUY | Entry Price: 62234.0 | Closing Price: N/A | Trade Value: 496.13776540828735 | Stop Loss: 62125.169642857145 | Balance: 9426.617542757458
+2024-09-19 09:41:08.023 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62282.19
+Current Price of BTCUSDT: 62282.19
+2024-09-19 09:42:08.298 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62300.0
+Current Price of BTCUSDT: 62300.0
+2024-09-19 09:43:09.053 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62324.78
+Current Price of BTCUSDT: 62324.78
+2024-09-19 09:44:09.318 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62307.34
+Current Price of BTCUSDT: 62307.34
+2024-09-19 09:45:09.586 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62339.99
+Current Price of BTCUSDT: 62339.99
+2024-09-19 09:46:09.867 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62324.0
+Current Price of BTCUSDT: 62324.0
+2024-09-19 09:47:10.143 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62334.91
+Current Price of BTCUSDT: 62334.91
+2024-09-19 09:48:10.409 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62325.01
+Current Price of BTCUSDT: 62325.01
+2024-09-19 09:49:10.677 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62312.01
+Current Price of BTCUSDT: 62312.01
+2024-09-19 09:50:11.419 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62312.5
+Current Price of BTCUSDT: 62312.5
+2024-09-19 09:51:11.679 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62275.71
+Current Price of BTCUSDT: 62275.71
+2024-09-19 09:52:11.946 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62300.0
+Current Price of BTCUSDT: 62300.0
+2024-09-19 09:53:12.215 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62288.79
+Current Price of BTCUSDT: 62288.79
+2024-09-19 09:54:12.506 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62297.99
+Current Price of BTCUSDT: 62297.99
+2024-09-19 09:55:12.775 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62300.0
+Current Price of BTCUSDT: 62300.0
+2024-09-19 09:56:13.040 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62266.44
+Current Price of BTCUSDT: 62266.44
+2024-09-19 09:57:13.779 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62234.0
+Current Price of BTCUSDT: 62234.0
+2024-09-19 09:58:14.052 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62254.0
+Current Price of BTCUSDT: 62254.0
+2024-09-19 09:59:14.318 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62249.99
+Current Price of BTCUSDT: 62249.99
+2024-09-19 10:00:14.593 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62280.0
+Current Price of BTCUSDT: 62280.0
+2024-09-19 10:01:14.869 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62311.98
+Current Price of BTCUSDT: 62311.98
+2024-09-19 10:02:15.137 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62302.0
+Current Price of BTCUSDT: 62302.0
+2024-09-19 10:03:15.400 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62313.28
+Current Price of BTCUSDT: 62313.28
+2024-09-19 10:04:15.663 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62343.83
+Current Price of BTCUSDT: 62343.83
+2024-09-19 10:05:15.931 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62338.0
+Current Price of BTCUSDT: 62338.0
+2024-09-19 10:06:16.196 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62326.0
+Current Price of BTCUSDT: 62326.0
+2024-09-19 10:07:16.459 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62356.0
+Current Price of BTCUSDT: 62356.0
+2024-09-19 10:08:16.726 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62414.26
+Current Price of BTCUSDT: 62414.26
+2024-09-19 10:09:17.003 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62427.18
+Current Price of BTCUSDT: 62427.18
+2024-09-19 10:10:17.269 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62509.17
+Current Price of BTCUSDT: 62509.17
+2024-09-19 10:11:17.532 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62530.99
+Current Price of BTCUSDT: 62530.99
+2024-09-19 10:12:17.802 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62528.48
+Current Price of BTCUSDT: 62528.48
+2024-09-19 10:13:18.061 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62520.01
+Current Price of BTCUSDT: 62520.01
+2024-09-19 10:14:18.327 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62491.99
+Current Price of BTCUSDT: 62491.99
+2024-09-19 10:15:18.602 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62471.0
+Current Price of BTCUSDT: 62471.0
+2024-09-19 10:16:18.867 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62454.42
+Current Price of BTCUSDT: 62454.42
+2024-09-19 10:17:19.141 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62430.01
+Current Price of BTCUSDT: 62430.01
+2024-09-19 10:18:19.403 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62438.0
+Current Price of BTCUSDT: 62438.0
+2024-09-19 10:19:19.661 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62454.0
+Current Price of BTCUSDT: 62454.0
+2024-09-19 10:20:19.936 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62422.0
+Current Price of BTCUSDT: 62422.0
+2024-09-19 10:21:20.207 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62436.1
+Current Price of BTCUSDT: 62436.1
+2024-09-19 10:22:20.471 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62430.0
+Current Price of BTCUSDT: 62430.0
+2024-09-19 10:23:20.738 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62437.56
+Current Price of BTCUSDT: 62437.56
+2024-09-19 10:24:21.009 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62450.0
+Current Price of BTCUSDT: 62450.0
+2024-09-19 10:25:21.270 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62500.0
+Current Price of BTCUSDT: 62500.0
+2024-09-19 10:26:21.545 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62512.63
+Current Price of BTCUSDT: 62512.63
+2024-09-19 10:27:21.821 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62512.64
+Current Price of BTCUSDT: 62512.64
+2024-09-19 10:28:22.085 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62524.64
+Current Price of BTCUSDT: 62524.64
+2024-09-19 10:29:22.359 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62541.22
+Current Price of BTCUSDT: 62541.22
+2024-09-19 10:30:22.630 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62612.98
+Current Price of BTCUSDT: 62612.98
+2024-09-19 10:31:22.892 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62464.0
+Current Price of BTCUSDT: 62464.0
+2024-09-19 10:32:23.163 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62433.96
+Current Price of BTCUSDT: 62433.96
+2024-09-19 10:33:23.427 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62440.0
+Current Price of BTCUSDT: 62440.0
+2024-09-19 10:34:23.695 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62400.0
+Current Price of BTCUSDT: 62400.0
+2024-09-19 10:35:23.955 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62367.99
+Current Price of BTCUSDT: 62367.99
+2024-09-19 10:36:24.222 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62391.99
+Current Price of BTCUSDT: 62391.99
+2024-09-19 10:37:24.489 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62375.99
+Current Price of BTCUSDT: 62375.99
+2024-09-19 10:38:24.751 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62376.0
+Current Price of BTCUSDT: 62376.0
+2024-09-19 10:39:25.017 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62371.99
+Current Price of BTCUSDT: 62371.99
+2024-09-19 10:40:25.293 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62377.04
+Current Price of BTCUSDT: 62377.04
+2024-09-19 10:41:25.557 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62382.38
+Current Price of BTCUSDT: 62382.38
+2024-09-19 10:42:25.822 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62399.1
+Current Price of BTCUSDT: 62399.1
+2024-09-19 10:43:26.086 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62410.0
+Current Price of BTCUSDT: 62410.0
+2024-09-19 10:44:26.352 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62440.0
+Current Price of BTCUSDT: 62440.0
+2024-09-19 10:45:26.615 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62390.0
+Current Price of BTCUSDT: 62390.0
+2024-09-19 10:46:26.874 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62387.92
+Current Price of BTCUSDT: 62387.92
+2024-09-19 10:47:27.134 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62378.0
+Current Price of BTCUSDT: 62378.0
+2024-09-19 10:48:27.403 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62433.97
+Current Price of BTCUSDT: 62433.97
+2024-09-19 10:49:27.671 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62439.66
+Current Price of BTCUSDT: 62439.66
+2024-09-19 10:50:27.944 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62433.9
+Current Price of BTCUSDT: 62433.9
+2024-09-19 10:51:28.216 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62389.61
+Current Price of BTCUSDT: 62389.61
+2024-09-19 10:52:28.505 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62384.0
+Current Price of BTCUSDT: 62384.0
+2024-09-19 10:53:28.775 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62384.0
+Current Price of BTCUSDT: 62384.0
+2024-09-19 10:54:29.039 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62384.0
+Current Price of BTCUSDT: 62384.0
+2024-09-19 10:55:29.301 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62384.0
+Current Price of BTCUSDT: 62384.0
+2024-09-19 10:56:29.558 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62368.93
+Current Price of BTCUSDT: 62368.93
+2024-09-19 10:57:30.296 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62342.0
+Current Price of BTCUSDT: 62342.0
+2024-09-19 10:58:30.564 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62323.78
+Current Price of BTCUSDT: 62323.78
+2024-09-19 10:59:30.828 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62330.0
+Current Price of BTCUSDT: 62330.0
+2024-09-19 11:00:31.090 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62331.99
+Current Price of BTCUSDT: 62331.99
+2024-09-19 11:01:31.834 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62308.0
+Current Price of BTCUSDT: 62308.0
+2024-09-19 11:02:32.096 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62307.2
+Current Price of BTCUSDT: 62307.2
+2024-09-19 11:03:32.361 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62294.0
+Current Price of BTCUSDT: 62294.0
+2024-09-19 11:04:32.621 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62266.8
+Current Price of BTCUSDT: 62266.8
+2024-09-19 11:05:32.885 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62273.99
+Current Price of BTCUSDT: 62273.99
+2024-09-19 11:06:33.149 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62300.0
+Current Price of BTCUSDT: 62300.0
+2024-09-19 11:07:33.416 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62294.01
+Current Price of BTCUSDT: 62294.01
+2024-09-19 11:08:33.677 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62268.0
+Current Price of BTCUSDT: 62268.0
+2024-09-19 11:09:33.945 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62328.0
+Current Price of BTCUSDT: 62328.0
+2024-09-19 11:10:34.225 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62380.54
+Current Price of BTCUSDT: 62380.54
+2024-09-19 11:11:34.493 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62360.77
+Current Price of BTCUSDT: 62360.77
+2024-09-19 11:12:34.765 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62386.0
+Current Price of BTCUSDT: 62386.0
+2024-09-19 11:13:35.028 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62411.53
+Current Price of BTCUSDT: 62411.53
+2024-09-19 11:14:35.294 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62397.98
+Current Price of BTCUSDT: 62397.98
+2024-09-19 11:15:35.558 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62394.6
+Current Price of BTCUSDT: 62394.6
+2024-09-19 11:16:35.832 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62478.75
+Current Price of BTCUSDT: 62478.75
+2024-09-19 11:17:36.105 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62476.0
+Current Price of BTCUSDT: 62476.0
+2024-09-19 11:18:36.369 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62478.88
+Current Price of BTCUSDT: 62478.88
+2024-09-19 11:19:36.633 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62482.85
+Current Price of BTCUSDT: 62482.85
+2024-09-19 11:20:36.901 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62492.86
+Current Price of BTCUSDT: 62492.86
+2024-09-19 11:21:37.163 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62492.82
+Current Price of BTCUSDT: 62492.82
+2024-09-19 11:22:37.424 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62510.0
+Current Price of BTCUSDT: 62510.0
+2024-09-19 11:23:37.690 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62482.85
+Current Price of BTCUSDT: 62482.85
+2024-09-19 11:24:37.959 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62453.17
+Current Price of BTCUSDT: 62453.17
+2024-09-19 11:25:38.222 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62449.98
+Current Price of BTCUSDT: 62449.98
+2024-09-19 11:26:38.486 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62467.18
+Current Price of BTCUSDT: 62467.18
+2024-09-19 11:27:38.761 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62490.8
+Current Price of BTCUSDT: 62490.8
+2024-09-19 11:28:39.029 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62490.48
+Current Price of BTCUSDT: 62490.48
+2024-09-19 11:29:39.297 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62500.22
+Current Price of BTCUSDT: 62500.22
+2024-09-19 11:30:40.037 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62503.99
+Current Price of BTCUSDT: 62503.99
+2024-09-19 11:31:40.297 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62500.21
+Current Price of BTCUSDT: 62500.21
+2024-09-19 11:32:40.562 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62512.01
+Current Price of BTCUSDT: 62512.01
+2024-09-19 11:33:40.825 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62536.0
+Current Price of BTCUSDT: 62536.0
+2024-09-19 11:34:41.091 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62551.33
+Current Price of BTCUSDT: 62551.33
+2024-09-19 11:35:41.367 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62546.36
+Current Price of BTCUSDT: 62546.36
+2024-09-19 11:36:41.639 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62546.0
+Current Price of BTCUSDT: 62546.0
+2024-09-19 11:37:41.914 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62544.01
+Current Price of BTCUSDT: 62544.01
+2024-09-19 11:38:42.179 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62551.97
+Current Price of BTCUSDT: 62551.97
+2024-09-19 11:39:42.451 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62547.38
+Current Price of BTCUSDT: 62547.38
+2024-09-19 11:40:42.715 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62554.02
+Current Price of BTCUSDT: 62554.02
+2024-09-19 11:41:42.980 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62562.0
+Current Price of BTCUSDT: 62562.0
+2024-09-19 11:42:43.241 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62572.94
+Current Price of BTCUSDT: 62572.94
+2024-09-19 11:43:43.500 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62574.42
+Current Price of BTCUSDT: 62574.42
+2024-09-19 11:44:43.762 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62566.02
+Current Price of BTCUSDT: 62566.02
+2024-09-19 11:45:44.027 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62573.99
+Current Price of BTCUSDT: 62573.99
+2024-09-19 11:46:44.289 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62525.79
+Current Price of BTCUSDT: 62525.79
+2024-09-19 11:47:44.553 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62563.99
+Current Price of BTCUSDT: 62563.99
+2024-09-19 11:48:44.817 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62560.0
+Current Price of BTCUSDT: 62560.0
+2024-09-19 11:49:45.085 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62584.01
+Current Price of BTCUSDT: 62584.01
+2024-09-19 11:50:45.357 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62566.0
+Current Price of BTCUSDT: 62566.0
+2024-09-19 11:51:45.620 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62583.74
+Current Price of BTCUSDT: 62583.74
+2024-09-19 11:52:45.880 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62614.0
+Current Price of BTCUSDT: 62614.0
+2024-09-19 11:53:46.145 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62619.99
+Current Price of BTCUSDT: 62619.99
+2024-09-19 11:54:46.408 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62685.32
+Current Price of BTCUSDT: 62685.32
+2024-09-19 11:55:46.680 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62664.0
+Current Price of BTCUSDT: 62664.0
+2024-09-19 11:56:46.948 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62683.79
+Current Price of BTCUSDT: 62683.79
+2024-09-19 11:57:47.210 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62653.85
+Current Price of BTCUSDT: 62653.85
+2024-09-19 11:58:47.471 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62676.0
+Current Price of BTCUSDT: 62676.0
+2024-09-19 11:59:47.735 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62652.01
+Current Price of BTCUSDT: 62652.01
+2024-09-19 12:00:48.003 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62684.02
+Current Price of BTCUSDT: 62684.02
+2024-09-19 12:01:48.270 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62686.88
+Current Price of BTCUSDT: 62686.88
+2024-09-19 12:02:48.536 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62615.81
+Current Price of BTCUSDT: 62615.81
+2024-09-19 12:03:48.800 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62774.02
+Current Price of BTCUSDT: 62774.02
+2024-09-19 12:04:49.063 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62732.1
+Current Price of BTCUSDT: 62732.1
+2024-09-19 12:05:49.330 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62866.07
+Current Price of BTCUSDT: 62866.07
+2024-09-19 12:06:49.595 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63015.31
+Current Price of BTCUSDT: 63015.31
+2024-09-19 12:07:49.860 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63102.96
+Current Price of BTCUSDT: 63102.96
+2024-09-19 12:08:50.119 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63178.0
+Current Price of BTCUSDT: 63178.0
+2024-09-19 12:09:50.398 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63049.94
+Current Price of BTCUSDT: 63049.94
+2024-09-19 12:10:50.664 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63114.02
+Current Price of BTCUSDT: 63114.02
+2024-09-19 12:11:50.927 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63013.97
+Current Price of BTCUSDT: 63013.97
+2024-09-19 12:12:51.189 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63041.96
+Current Price of BTCUSDT: 63041.96
+2024-09-19 12:13:51.452 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63004.0
+Current Price of BTCUSDT: 63004.0
+2024-09-19 12:14:51.723 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62972.01
+Current Price of BTCUSDT: 62972.01
+2024-09-19 12:15:51.990 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63032.0
+Current Price of BTCUSDT: 63032.0
+2024-09-19 12:16:52.260 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63091.99
+Current Price of BTCUSDT: 63091.99
+2024-09-19 12:17:52.532 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63033.0
+Current Price of BTCUSDT: 63033.0
+2024-09-19 12:18:52.801 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63038.01
+Current Price of BTCUSDT: 63038.01
+2024-09-19 12:19:53.061 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63057.97
+Current Price of BTCUSDT: 63057.97
+2024-09-19 12:20:53.325 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62987.7
+Current Price of BTCUSDT: 62987.7
+2024-09-19 12:21:53.587 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62923.41
+Current Price of BTCUSDT: 62923.41
+2024-09-19 12:22:53.853 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62928.01
+Current Price of BTCUSDT: 62928.01
+2024-09-19 12:23:54.120 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62950.0
+Current Price of BTCUSDT: 62950.0
+2024-09-19 12:24:54.389 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62909.99
+Current Price of BTCUSDT: 62909.99
+2024-09-19 12:25:54.653 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62899.98
+Current Price of BTCUSDT: 62899.98
+2024-09-19 12:26:54.914 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62878.51
+Current Price of BTCUSDT: 62878.51
+2024-09-19 12:27:55.176 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62894.0
+Current Price of BTCUSDT: 62894.0
+2024-09-19 12:28:55.437 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62895.99
+Current Price of BTCUSDT: 62895.99
+2024-09-19 12:29:56.183 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62880.87
+Current Price of BTCUSDT: 62880.87
+2024-09-19 12:30:56.445 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62856.12
+Current Price of BTCUSDT: 62856.12
+2024-09-19 12:31:56.705 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62970.0
+Current Price of BTCUSDT: 62970.0
+2024-09-19 12:32:56.967 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63049.99
+Current Price of BTCUSDT: 63049.99
+2024-09-19 12:33:57.235 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63006.0
+Current Price of BTCUSDT: 63006.0
+2024-09-19 12:34:57.500 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63010.0
+Current Price of BTCUSDT: 63010.0
+2024-09-19 12:35:57.772 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63027.99
+Current Price of BTCUSDT: 63027.99
+2024-09-19 12:36:58.037 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62977.99
+Current Price of BTCUSDT: 62977.99
+2024-09-19 12:37:58.304 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62978.62
+Current Price of BTCUSDT: 62978.62
+2024-09-19 12:38:58.568 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62878.0
+Current Price of BTCUSDT: 62878.0
+2024-09-19 12:39:58.836 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62896.87
+Current Price of BTCUSDT: 62896.87
+2024-09-19 12:40:59.113 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62897.98
+Current Price of BTCUSDT: 62897.98
+2024-09-19 12:41:59.380 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62884.0
+Current Price of BTCUSDT: 62884.0
+2024-09-19 12:42:59.639 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62906.0
+Current Price of BTCUSDT: 62906.0
+2024-09-19 12:43:59.906 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62870.01
+Current Price of BTCUSDT: 62870.01
+2024-09-19 12:45:00.186 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62851.61
+Current Price of BTCUSDT: 62851.61
+2024-09-19 12:46:00.453 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62810.85
+Current Price of BTCUSDT: 62810.85
+2024-09-19 12:47:00.716 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62783.99
+Current Price of BTCUSDT: 62783.99
+2024-09-19 12:48:00.982 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62769.99
+Current Price of BTCUSDT: 62769.99
+2024-09-19 12:49:01.247 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62789.62
+Current Price of BTCUSDT: 62789.62
+2024-09-19 12:50:01.530 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62790.0
+Current Price of BTCUSDT: 62790.0
+2024-09-19 12:51:01.800 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62836.0
+Current Price of BTCUSDT: 62836.0
+2024-09-19 12:52:02.070 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62824.0
+Current Price of BTCUSDT: 62824.0
+2024-09-19 12:53:02.337 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62820.01
+Current Price of BTCUSDT: 62820.01
+2024-09-19 12:54:02.598 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62836.46
+Current Price of BTCUSDT: 62836.46
+2024-09-19 12:55:02.861 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62854.42
+Current Price of BTCUSDT: 62854.42
+2024-09-19 12:56:03.614 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62850.11
+Current Price of BTCUSDT: 62850.11
+2024-09-19 12:57:03.887 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62905.98
+Current Price of BTCUSDT: 62905.98
+2024-09-19 12:58:04.165 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62957.42
+Current Price of BTCUSDT: 62957.42
+2024-09-19 12:59:04.434 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62908.01
+Current Price of BTCUSDT: 62908.01
+2024-09-19 13:00:04.715 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62924.0
+Current Price of BTCUSDT: 62924.0
+2024-09-19 13:01:04.986 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62903.15
+Current Price of BTCUSDT: 62903.15
+2024-09-19 13:02:05.249 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62912.01
+Current Price of BTCUSDT: 62912.01
+2024-09-19 13:03:05.519 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62958.1
+Current Price of BTCUSDT: 62958.1
+2024-09-19 13:04:05.796 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62899.97
+Current Price of BTCUSDT: 62899.97
+2024-09-19 13:05:06.059 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62933.57
+Current Price of BTCUSDT: 62933.57
+2024-09-19 13:06:06.325 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62922.24
+Current Price of BTCUSDT: 62922.24
+2024-09-19 13:07:06.590 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62902.01
+Current Price of BTCUSDT: 62902.01
+2024-09-19 13:08:06.851 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62898.89
+Current Price of BTCUSDT: 62898.89
+2024-09-19 13:09:07.124 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 62986.0
+Current Price of BTCUSDT: 62986.0
+2024-09-19 13:10:07.395 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63037.3
+Current Price of BTCUSDT: 63037.3
+2024-09-19 13:11:07.662 | INFO     | __main__:paper_trading:180 - Current Price of BTCUSDT: 63063.87
+Current Price of BTCUSDT: 63063.87
